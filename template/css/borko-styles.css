@@ -1,0 +1,140 @@
+   @font-face {
+    font-family: PFdin;
+    src: url(PFDin.ttf);
+   }     
+   @font-face {
+    font-family: PFdinm;
+    src: url(PFDinm.ttf);
+   }  
+   @font-face {
+    font-family: Uni;
+    src: url(Uni.otf);
+   }   
+   @font-face {
+    font-family: Myriad Pro;
+    src: url(Myriadpro.otf);
+   }
+   
+/*    Poppins fonts */
+   @font-face {
+    font-family: Poppins;
+    src: url(popins/Poppins.ttf);
+   }
+      @font-face {
+    font-family: PoppinsM;
+    src: url(popins/PoppinsM.ttf);
+   }
+      @font-face {
+    font-family: PoppinsB;
+    src: url(popins/PoppinsB.ttf);
+   }
+      @font-face {
+    font-family: PoppinsSB;
+    src: url(popins/PoppinsSB.ttf);
+   }
+      @font-face {
+    font-family: PoppinsSB;
+    src: url(popins/PoppinsL.ttf);
+   }
+   
+.pb_10{
+width:10%;
+display: block;
+overflow: hidden;
+
+}
+.pb_20{
+width:20%;
+display: block;
+overflow: hidden;
+
+}
+.pb_30{
+width:30%;
+display: block;
+overflow: hidden;
+
+}
+.pb_40{
+width:40%;
+display: block;
+overflow: hidden;
+
+}
+.pb_50{
+width:50%;
+display: block;
+overflow: hidden;
+
+}
+.pb_60{
+width:60%;
+display: block;
+overflow: hidden;
+
+}
+.pb_70{
+width:70%;
+display: block;
+overflow: hidden;
+
+}
+.pb_80{
+width:80%;
+display: block;
+overflow: hidden;
+
+}
+.pb_90{
+width:90%;
+display: block;
+overflow: hidden;
+
+}
+.pb_100{
+width:100%;
+display: block;
+overflow: hidden;
+
+}
+.ab_1200_extrasmall{
+width:240px;
+display: block;
+overflow: hidden;
+
+}
+.ab_1200_small{
+width:300px;
+display: block;
+overflow: hidden;
+
+}
+.ab_1200_average{
+width:400px;
+display: block;
+overflow: hidden;
+
+}
+.ab_1200_big{
+width:600px;
+display: block;
+overflow: hidden;
+
+}
+.ab_1200_extrabig{
+width:720px;
+display: block;
+overflow: hidden;
+}
+.left{
+float: left;
+}
+.right{
+float: right;
+}
+.centr_1200{
+width: 1200px;
+display:block;
+overflow:hidden;
+margin: 0 auto;
+}
